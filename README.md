@@ -213,6 +213,4 @@ This project demonstrates:
 - Add an LLM-based zero-shot and few-shot comparison
 - Build a separate larger CyberLLM evaluation project
 
-## Resume Bullet
 
-Built a PyTorch and Hugging Face transformer fine-tuning pipeline for cybersecurity research paper classification, comparing BERT, DistilBERT, and SciBERT against a baseline using macro F1-score, confusion matrices, and error analysis.

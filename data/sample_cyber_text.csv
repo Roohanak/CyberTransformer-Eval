@@ -1,0 +1,33 @@
+text,label
+"Email asks user to verify account password through a suspicious login link",phishing
+"Message claims mailbox storage is full and asks for credentials",phishing
+"URL uses a fake banking domain to collect authentication details",phishing
+"Attachment pretends to be an invoice but redirects to credential harvesting page",phishing
+"Sender impersonates IT support and asks the employee to reset MFA",phishing
+"Login page copies a known brand and requests card information",phishing
+"Urgent payroll email includes a shortened URL to a fake portal",phishing
+"Security alert email asks the user to confirm password immediately",phishing
+"Malware sample encrypts user files and demands payment in cryptocurrency",malware
+"Executable creates persistence through registry run keys",malware
+"Trojan downloads a second stage payload from command and control server",malware
+"Ransomware deletes shadow copies before encrypting documents",malware
+"Suspicious binary injects code into another process",malware
+"Botnet client receives commands from a remote controller",malware
+"Packed executable contacts a known malicious domain after launch",malware
+"Malware modifies startup settings to survive reboot",malware
+"Network sensor reports repeated failed SSH logins from one source",intrusion
+"IDS alert shows lateral movement using remote service execution",intrusion
+"Host logs show privilege escalation followed by credential dumping",intrusion
+"Traffic pattern indicates port scanning across internal subnet",intrusion
+"Authentication logs show impossible travel and repeated MFA failures",intrusion
+"Endpoint telemetry shows suspicious PowerShell execution",intrusion
+"Firewall records command and control beaconing at regular intervals",intrusion
+"SIEM alert identifies anomalous outbound data transfer",intrusion
+"Patch advisory describes a buffer overflow in a web service",vulnerability
+"CVE report explains an authentication bypass in the admin interface",vulnerability
+"Research note describes SQL injection caused by unsafe query construction",vulnerability
+"Security bulletin fixes remote code execution in a parser",vulnerability
+"Report documents insecure deserialization leading to privilege escalation",vulnerability
+"Scanner identifies outdated software with known exploit code",vulnerability
+"Disclosure explains cross site scripting in the search parameter",vulnerability
+"Advisory describes missing access control on sensitive API endpoints",vulnerability
